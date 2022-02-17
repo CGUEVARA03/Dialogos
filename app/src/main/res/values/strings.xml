@@ -1,0 +1,13 @@
+<resources>
+
+    <string name="app_name">Varias Intent</string>
+
+    <string name="Nombre">Escriba su nombre</string>
+
+    <string name="Enviar">ENVIAR DATOS</string>
+
+    <string name="MostrarDato">DATOS  RECIBIDOS</string>
+
+    <string name="Volver">VOLVER </string>
+
+</resources>
